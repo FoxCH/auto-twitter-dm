@@ -7,6 +7,6 @@ def generate_dm_text(name):
 	How are you doing and what is your interest?
 	Have a nice day 😊😊'''.format(name)
 
-scheduler_time = 15 #in minutes
+scheduler_time = 5 #in minutes
 
 tw_username = "FoxCH_" #change this to yours
